@@ -1,0 +1,13 @@
+[
+    {
+        "RoleArn": "arn:aws:iam::943554728594:role/AWS-Inventory",
+        "RoleSessionName": "943554728594-Inventory",
+        "Description": "VPN"
+    },
+    {
+        "RoleArn": "arn:aws:iam::453746108839:role/AWS-Inventory",
+        "RoleSessionName": "453746108839-Inventory",
+        "Description": "AR-CITIKON"
+    }
+    
+]
